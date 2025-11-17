@@ -1,0 +1,29 @@
+{
+    "version": "0.18.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/owenthereal/upterm/releases/download/v0.18.0/upterm_windows_386.tar.gz",
+            "bin": [
+                "upterm.exe"
+            ],
+            "hash": "c845d2ed22cc63d2e9862d5a86e5f5fa4addc015a9f2d8a98a4d1b6cf241e6f0"
+        },
+        "64bit": {
+            "url": "https://github.com/owenthereal/upterm/releases/download/v0.18.0/upterm_windows_amd64.tar.gz",
+            "bin": [
+                "upterm.exe"
+            ],
+            "hash": "72e9e84aabb04052f0e6eaf2128724903cf39afe7be2a6886aac3a1a7232c499"
+        },
+        "arm64": {
+            "url": "https://github.com/owenthereal/upterm/releases/download/v0.18.0/upterm_windows_arm64.tar.gz",
+            "bin": [
+                "upterm.exe"
+            ],
+            "hash": "aecdaacff5e2d72bbfd2959152b8abc60b1924958b11e4deeafda50622fd4ffa"
+        }
+    },
+    "homepage": "https://upterm.dev",
+    "license": "Apache-2.0",
+    "description": "Instant Terminal Sharing"
+}
