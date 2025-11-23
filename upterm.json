@@ -1,26 +1,26 @@
 {
-    "version": "0.18.0",
+    "version": "0.19.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/owenthereal/upterm/releases/download/v0.18.0/upterm_windows_386.tar.gz",
+            "url": "https://github.com/owenthereal/upterm/releases/download/v0.19.0/upterm_windows_386.tar.gz",
             "bin": [
                 "upterm.exe"
             ],
-            "hash": "c845d2ed22cc63d2e9862d5a86e5f5fa4addc015a9f2d8a98a4d1b6cf241e6f0"
+            "hash": "7c1cb03bb42350ad5317be40ba5dafbcb840a741d45828f65af49904fb9f41ce"
         },
         "64bit": {
-            "url": "https://github.com/owenthereal/upterm/releases/download/v0.18.0/upterm_windows_amd64.tar.gz",
+            "url": "https://github.com/owenthereal/upterm/releases/download/v0.19.0/upterm_windows_amd64.tar.gz",
             "bin": [
                 "upterm.exe"
             ],
-            "hash": "72e9e84aabb04052f0e6eaf2128724903cf39afe7be2a6886aac3a1a7232c499"
+            "hash": "b2b29bc4088ef43bed22fe0a5f6686b16d16fe286db0a976f05decb38d07e561"
         },
         "arm64": {
-            "url": "https://github.com/owenthereal/upterm/releases/download/v0.18.0/upterm_windows_arm64.tar.gz",
+            "url": "https://github.com/owenthereal/upterm/releases/download/v0.19.0/upterm_windows_arm64.tar.gz",
             "bin": [
                 "upterm.exe"
             ],
-            "hash": "aecdaacff5e2d72bbfd2959152b8abc60b1924958b11e4deeafda50622fd4ffa"
+            "hash": "cd77d0cdd6d2986f19a57ff0b3bd6c70901e179fcd1467ec1ddd1b1cd1b209cd"
         }
     },
     "homepage": "https://upterm.dev",
